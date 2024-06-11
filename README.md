@@ -1,5 +1,4 @@
-## async_sitemapping
-# WebScraper
+# AsyncWebScraper
 
 WebScraper is a Python project designed to scrape and clean web pages from a given sitemap URL. Utilizing asynchronous programming, it efficiently fetches and processes multiple pages concurrently. This tool is particularly useful for extracting text content from websites by removing unnecessary HTML elements like headers, footers, navigation bars, scripts, and styles.
 
